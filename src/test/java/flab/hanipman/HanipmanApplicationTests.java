@@ -9,5 +9,4 @@ class HanipmanApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
